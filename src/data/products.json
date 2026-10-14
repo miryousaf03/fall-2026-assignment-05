@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Classic White Tee",
+    "price": 19.99,
+    "category": "Tops",
+    "description": "A soft, breathable cotton crewneck tee that goes with everything.",
+    "imageUrl": "./images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Oxford Button-Down Shirt",
+    "price": 44.99,
+    "category": "Tops",
+    "description": "A relaxed-fit oxford shirt in light blue, perfect for class or casual dinners.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Striped Long Sleeve",
+    "price": 29.99,
+    "category": "Tops",
+    "description": "A lightweight navy and cream striped top for cooler days.",
+    "imageUrl": "./images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Everyday Hoodie",
+    "price": 54.99,
+    "category": "Outerwear",
+    "description": "A midweight fleece hoodie with a roomy front pocket and an adjustable hood.",
+    "imageUrl": "./images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Denim Jacket",
+    "price": 79.99,
+    "category": "Outerwear",
+    "description": "A classic medium-wash denim jacket with a slightly cropped fit.",
+    "imageUrl": "./images/product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Water-Resistant Rain Jacket",
+    "price": 69.99,
+    "category": "Outerwear",
+    "description": "A packable shell with a hood that keeps you dry on rainy campus days.",
+    "imageUrl": "./images/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Slim Fit Jeans",
+    "price": 49.99,
+    "category": "Bottoms",
+    "description": "Stretch denim jeans in dark indigo with a clean, modern slim cut.",
+    "imageUrl": "./images/product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Khaki Chino Pants",
+    "price": 42.99,
+    "category": "Bottoms",
+    "description": "Versatile cotton chinos that work for both casual and dressier looks.",
+    "imageUrl": "./images/product8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jogger Sweatpants",
+    "price": 34.99,
+    "category": "Bottoms",
+    "description": "Comfortable heather gray joggers with a tapered leg and elastic cuffs.",
+    "imageUrl": "./images/product9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pleated Midi Skirt",
+    "price": 39.99,
+    "category": "Bottoms",
+    "description": "A flowy black pleated skirt that moves nicely and pairs with sneakers or boots.",
+    "imageUrl": "./images/product10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Canvas Low-Top Sneakers",
+    "price": 49.99,
+    "category": "Footwear",
+    "description": "Lightweight white canvas sneakers with a cushioned insole for all-day wear.",
+    "imageUrl": "./images/product11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Leather Chelsea Boots",
+    "price": 99.99,
+    "category": "Footwear",
+    "description": "Sleek brown leather boots with elastic side panels and a durable sole.",
+    "imageUrl": "./images/product12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Knit Beanie",
+    "price": 15.99,
+    "category": "Accessories",
+    "description": "A warm ribbed knit beanie in charcoal that fits most head sizes.",
+    "imageUrl": "./images/product13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Woven Leather Belt",
+    "price": 24.99,
+    "category": "Accessories",
+    "description": "A flexible woven belt in tan with a simple brushed metal buckle.",
+    "imageUrl": "./images/product14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Canvas Tote Bag",
+    "price": 22.99,
+    "category": "Accessories",
+    "description": "A sturdy natural canvas tote with an inner pocket, roomy enough for books and a laptop.",
+    "imageUrl": "./images/product15.jpg"
+  }
+]
